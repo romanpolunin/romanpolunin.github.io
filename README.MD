@@ -1,5 +1,5 @@
-h1. Some HTML content.
+# Org chart layout demo
 
-h3. Demo for RomanPolunin.OrgChart.Net library on NuGet
+TypeScript demo for [RomanPolunin.OrgChart.Net](https://github.com/romanpolunin/OrgChart).
 
 https://romanpolunin.github.io/OrgChart/www/demo.html
